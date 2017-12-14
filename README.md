@@ -7,7 +7,7 @@ a FPGA designer to easily write assembly code for a custom instruction set.
 
 The current version allows to create a listing file, a memory dump file which can be used in debugging HDL code using $readmemh() or equivalent routine, and a binary file which can be used to program a EPROM.
 
-Copyright (C) Hari Krishnan 2002-2003, hkrishn3 @T jhu d.ot edu
+Copyright (C) Hari Krishnan 2012-2018, hkrishn3 @T jhu d.ot edu
 This program is free software; you can redistribute it and/or modify it under     the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
